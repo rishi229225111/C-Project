@@ -4,7 +4,7 @@
 #include <stdio.h>
 
 //function declaration
-int binarySearch(int *a, int n, int key);
+int binarySearch(int *a, int n, int key);//Global function declaration
 
 int main(){
 	//variable declaration
